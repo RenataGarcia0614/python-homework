@@ -1,0 +1,5 @@
+total number of months:85
+net total amount:38382578
+average:-426534.65882352943
+Greatest Increase: ['Feb-2012', 302709]
+Greatest Decrease: ['Sep-2013', -2064109]
