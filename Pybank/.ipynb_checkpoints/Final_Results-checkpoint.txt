@@ -1,5 +1,4 @@
-Financial Analysis 
------------------------------------
+Financial Analysis-----------------------------------
 Total Number of Months:85
 Net Total:38382578
 Average Monthly Change:-426534.65882352943
